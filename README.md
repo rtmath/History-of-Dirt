@@ -1,4 +1,4 @@
-# _Northwest Cupcakes_
+# _History of Dirt, a boring lecture_
 
 #### _Epicodus exercise to practice HTML and CSS Styling, October 12 2016_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_Website about our local cupcake shop here in the Pacific Northwest_
+_Website about a boring lecture in Latin._
 
 ## Setup/Installation Requirements
 
