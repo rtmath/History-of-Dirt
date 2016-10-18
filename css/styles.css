@@ -10,3 +10,8 @@ h1 {
 p {
   font-weight: bold;
 }
+
+.pHighlight {
+  border: 1px solid black;
+  background-color: yellow;
+}
